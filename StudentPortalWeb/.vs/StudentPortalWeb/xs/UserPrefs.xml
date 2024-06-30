@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F49281E7-4581-484B-864C-87790F1BA399}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StudentPortalWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentPortalWeb/Controllers/StudentsController.cs">
+    <Files>
+      <File FileName="StudentPortalWeb/appsettings.json" />
+      <File FileName="StudentPortalWeb/Program.cs" Line="16" Column="1" />
+      <File FileName="StudentPortalWeb/Controllers/StudentsController.cs" Line="11" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentPortalWeb" expanded="True">
+            <Node name="StudentPortalWeb" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudentsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
